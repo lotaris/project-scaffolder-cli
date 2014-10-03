@@ -1,0 +1,31 @@
+{
+  "name": "project-scaffolder-cli",
+  "version": "0.1.0",
+  "bin": {
+    "project-scaffolder": "./bin/project-scaffolder"
+  },
+  "dependencies": {
+    "resolve": "^0.6.1"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-bump": "~0.0.13",
+    "grunt-contrib-jshint": "~0.9.2"
+  },
+  "homepage": "http://stash.aws.onlotaris.com/projects/ID/repos/project-scaffolder-cli/browse",
+  "bugs": "http://stash.aws.onlotaris.com/projects/ID/repos/project-scaffolder-cli/browse",
+  "author": {
+    "name": "Laurent Prevost",
+    "email": "laurent.prevost@forbes-digital.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lotaris/project-scaffolder-cli"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": ""
+    }
+  ]
+}
